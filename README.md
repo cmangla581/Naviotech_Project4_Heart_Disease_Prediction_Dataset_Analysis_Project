@@ -4,6 +4,7 @@ Heart Disease is becoming amajor pproblem in the whole world nowadays. many peop
 Hence this project "Heart Disease Prediction Dataset Analysis" which helps in predicting the absence or presence of heart disease in a patient using the Logistic Regression Machine Learning Algorithm and Streamlit. 
 
 I chose the Logistic Regression ML Algorithm for my project as for its simplicity, efficiency and interpretability. Its ideal for the binary problems, predicting categorical outcomes and probabilities using the sigmoid function.  Hence the main reasons include: 
+     
      1. Probabilistic Output 
      2. Simplicity and Speed 
      3. High Interpretability 
@@ -36,7 +37,17 @@ In the ML Project, I've also plottted varioous plots for easy analysis of the da
        1. Histogram 
        2. Count Plot 
        3. Correlation Heatmap 
-       4. Confusion Matrix 
+       4. Confusion Matrix  
+
+The tech stack used includes: 
+
+     1. Numpy 
+     2. Pandas 
+     3. Matplotlib 
+     4. Seaborn 
+     5. Scikit-Learn 
+     6. Streamlit 
+     7. CSS (Cascading Style Sheets) with Streamlit 
 
 Streamlit UI Link : https://cmangla-heart-disease-predictor.streamlit.app/
 
