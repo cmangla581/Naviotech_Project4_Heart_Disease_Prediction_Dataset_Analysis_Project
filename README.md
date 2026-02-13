@@ -1,6 +1,6 @@
 # Naviotech_Project4_Heart_Disease_Prediction_Dataset_Analysis_Project
 
-Heart Disease is becoming amajor pproblem in the whole world nowadays. many people lose their lives every year in the whole world, especially in India lose their lives.
+Heart Disease is becoming a major problem in the whole world nowadays. many people lose their lives every year in the whole world, especially in India lose their lives.
 Hence this project "Heart Disease Prediction Dataset Analysis" which helps in predicting the absence or presence of heart disease in a patient using the Logistic Regression Machine Learning Algorithm and Streamlit. 
 
 I chose the Logistic Regression ML Algorithm for my project as for its simplicity, efficiency and interpretability. Its ideal for the binary problems, predicting categorical outcomes and probabilities using the sigmoid function.  Hence the main reasons include: 
