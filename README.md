@@ -26,7 +26,7 @@ The prediction and the analysis is mainly made on 13 features :
    6. Fasting blood Sugar
    7. Resting Electrocardiographic Results
    8. Maximum Heart Rate
-   9. Execide Induced Angina
+   9. Exercise Induced Angina  
    10. Old Peak
    11. ST Segment
    12. Major Vessels
