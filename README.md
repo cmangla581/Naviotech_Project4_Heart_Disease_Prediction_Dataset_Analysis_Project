@@ -1,2 +1,43 @@
 # Naviotech_Project4_Heart_Disease_Prediction_Dataset_Analysis_Project
-This repository consist of the Heart Disease Prediction Dataset Analysis project which predicts the Heart Disease in a Patient based on several features.  This project also consist of the dataset analysis on Jupyter notebook where the whole data has been precisely analyzed. 
+
+Heart Disease is becoming amajor pproblem in the whole world nowadays. many people lose their lives every year in the whole world, especially in India lose their lives.
+Hence this project "Heart Disease Prediction Dataset Analysis" which helps in predicting the absence or presence of heart disease in a patient using the Logistic Regression Machine Learning Algorithm and Streamlit. 
+
+I chose the Logistic Regression ML Algorithm for my project as for its simplicity, efficiency and interpretability. Its ideal for the binary problems, predicting categorical outcomes and probabilities using the sigmoid function.  Hence the main reasons include: 
+     1. Probabilistic Output 
+     2. Simplicity and Speed 
+     3. High Interpretability 
+     4, Handles Linear Seperability 
+     5. Less prone to Overfitting   
+
+After doing all the Jupyter Notebook Analysis, i've made a Streamlit UI Frontend for easy access by the users. Here, the new part is that I've also used CSS for improving the frontend.
+I've added a black background along with stylish buttons and widgets and icons. 
+
+## Model Accuracy : 90.74 % 
+
+The prediction and the analysis is mainly made on 13 features : 
+   
+   1. Age
+   2. Gender
+   3. Chest Pain Type
+   4. Resting Blood Pressure
+   5. Serum cholestoral
+   6. Fasting blood Sugar
+   7. Resting Electrocardiographic Results
+   8. Maximum Heart Rate
+   9. Execide Induced Angina
+   10. Old Peak
+   11. ST Segment
+   12. Major Vessels
+   13. Thallium Stress Level
+
+In the ML Project, I've also plottted varioous plots for easy analysis of the data like: 
+
+       1. Histogram 
+       2. Count Plot 
+       3. Correlation Heatmap 
+       4. Confusion Matrix 
+
+Streamlit UI Link : https://cmangla-heart-disease-predictor.streamlit.app/
+
+  
